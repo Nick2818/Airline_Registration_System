@@ -1,0 +1,14 @@
+                 Airline Company
+
+____________________TICKET____________________
+______________________________________________
+___________________Customer___________________
+Customer ID: 		1
+Customer Name: 		Nick
+Customer Age: 		22
+
+________________Description___________________
+
+Destination: 		Dubai
+Flight price: 		1500 Lei
+______________________________________________
