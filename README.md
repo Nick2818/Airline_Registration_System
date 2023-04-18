@@ -1,3 +1,5 @@
 # C++ Airline_Registration_System 
+Customer registration: Adding customer's informations, selecting the available tickets.
+Display/Print customer's ticket. (ticket.txt)
 
-The main purpose of this system is printing customer's ticket.(ticket.txt)\n
+
